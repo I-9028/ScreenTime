@@ -51,7 +51,7 @@ A KDE Plasma 6 panel widget that tracks how long you spend in each application t
 ```sh
         kpackagetool6 -t Plasma/Applet -l
 ```
-        And check if ScreenTime is listed there.
+        And check if `ScreenTime` (The name should be the same as the `Id` entry listed in [metadata.json](metadata.json) is listed there.
 
 ## Limitations
 

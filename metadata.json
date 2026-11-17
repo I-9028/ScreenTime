@@ -6,9 +6,10 @@
             }
         ],
         "Category": "System Information",
-        "Description": "Track daily app usage and browser tabs",
+        "Description": "Track daily app usage with per-tab breakdown for browsers",
         "Icon": "preferences-system-time",
-        "Id": "org.kde.plasma.screentime",
+        "Id": "io.github.i-9028.screentime",
+        "License": "MIT",
         "Name": "Screen Time",
         "Version": "1.0"
     },
