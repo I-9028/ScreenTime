@@ -11,7 +11,9 @@
         "Id": "io.github.i-9028.screentime",
         "License": "MIT",
         "Name": "Screen Time",
-        "Version": "1.0"
+        "Version": "1.0.1",
+        "Website": "https://github.com/I-9028/ScreenTime",
+        "BugReportUrl": "https://github.com/I-9028/ScreenTime/issues"
     },
     "KPackageStructure": "Plasma/Applet",
     "X-Plasma-API-Minimum-Version": "6.0"
